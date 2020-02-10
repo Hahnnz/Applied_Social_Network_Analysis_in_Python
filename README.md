@@ -1,8 +1,8 @@
 # [Coursera](https://www.coursera.org/learn/python-social-network-analysis) : Applied Social Network Analysis in Python
 
-This repository is what I studied and python3 codes of network(graph) anlysis that is shown on coursera lectures.
+This repository is summary of what I studied and python3 codes of network(graph) anlysis that is shown on coursera lectures.
 
-Usually the codes focus on graph visualization using `NetworkX v2.4`
+Usually the codes focus on graph visualization using `NetworkX v2.4` and `graphViz` maybe...
 
 ## About this Course
 
