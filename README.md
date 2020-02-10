@@ -10,7 +10,7 @@ This course will introduce the learner to network analysis through tutorials usi
 
 This course should be taken after: Introduction to Data Science in Python, Applied Plotting, Charting & Data Representation in Python, and Applied Machine Learning in Python.
 
-### 배울 내용
+### What you will learn
 - [x] Analyze the connectivity of a network
 - [x] Measure the importance or centrality of a node in a network
 - [x] Predict the evolution of networks over time
