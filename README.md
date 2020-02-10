@@ -16,7 +16,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 - [x] Predict the evolution of networks over time
 - [x] Represent and manipulate networked data using the NetworkX library
 
-### 귀하가 습득할 기술
+### What you will have
 **`Graph Theory`**, 
 **`Network Analysis`**, 
 **`Python Programming`**, 
