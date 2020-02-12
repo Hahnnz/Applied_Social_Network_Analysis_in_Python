@@ -21,3 +21,4 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 **`Network Analysis`**, 
 **`Python Programming`**, 
 **`Social Network Analysis`**
+
