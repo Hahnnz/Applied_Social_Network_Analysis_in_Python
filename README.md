@@ -22,3 +22,8 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 **`Python Programming`**, 
 **`Social Network Analysis`**
 
+### Environment
+* Python ≥ `3.6.9`<br>
+* Jupyter ≥ `1.0.0`<br>
+* Jupyterlab ≥ `1.1.4`<br>
+* networkx ≥ `2.4`<br>
