@@ -2,7 +2,10 @@
 
 This repository is summary of what I studied and python3 codes of network(graph) anlysis that is shown on coursera lectures.
 
-Usually the codes focus on graph visualization using `NetworkX v2.4` and `graphViz` maybe...
+Usually the codes focus on graph visualization using `NetworkX v2.4` and `graphViz` maybe...<br>
+
+This ipython notebooks have markdown contents with `Latex` notation to represent math formula, <br>
+so I would like to say you better see notebook files with jupyter notebook or jupyter lab.
 
 ## About this Course
 
